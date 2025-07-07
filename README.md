@@ -2,3 +2,4 @@
 #Este codigo crea un laberinto
 Ilse Guadalupe Bañuelos Pérez
 #El segundo codigo esta modificado y es de un laberinto 
+"Esto fue editado por un integrante del equipo"
